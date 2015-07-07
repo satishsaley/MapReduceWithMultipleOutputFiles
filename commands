@@ -1,0 +1,6 @@
+
+hadoop fs -mkdir /user/cloudera/multifileinput
+hadoop fs -chown cloudera /user/cloudera/multifileinput
+
+hadoop jar multipleoutputfile.jar  mapred.multipleoutput.Driver /user/cloudera/multifileinput/ /user/cloudera/multifileoutput/
+

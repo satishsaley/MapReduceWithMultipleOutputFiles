@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Satish/Documents/SharedWithVM/hadoopjars/hadoop-0.20-mapreduce/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satish/Documents/SharedWithVM/hadoopjars/hadoop-0.20-mapreduce/hadoop-core-2.0.0-mr1-cdh4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satish/Documents/SharedWithVM/hadoopjars/hadoop-hdfs/hadoop-hdfs-2.0.0-cdh4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satish/Documents/SharedWithVM/hadoopjars/hadoop/hadoop-common-2.0.0-cdh4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satish/Documents/SharedWithVM/hadoopjars/hadoop/hadoop-annotations-2.0.0-cdh4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satish/Documents/SharedWithVM/hadoopjars/hadoop/hadoop-auth-2.0.0-cdh4.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
