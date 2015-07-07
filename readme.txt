@@ -4,3 +4,6 @@ is time consuming for developer.
 
 This simple mapreduce code segregates the log file into separate log files based on the value in the first 
 column. It can take in number of log files as input and produce desired output.
+
+Reference:
+https://hadoop.apache.org/docs/current/api/org/apache/hadoop/mapreduce/lib/output/MultipleOutputs.html
